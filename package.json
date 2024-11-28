@@ -6,3 +6,14 @@
     "react-router-dom": "^7.0.1"
   }
 }
+{
+  "name": "proyecto-unraf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js" // Cambia este comando según lo que uses para iniciar tu proyecto
+  },
+  "author": "",
+  "license": "ISC"
+}
